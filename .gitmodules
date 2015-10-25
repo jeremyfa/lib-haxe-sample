@@ -1,0 +1,3 @@
+[submodule "deps/lib-hxcpp-runtime"]
+	path = deps/lib-hxcpp-runtime
+	url = git@github.com:jeremyfa/lib-hxcpp-runtime.git
