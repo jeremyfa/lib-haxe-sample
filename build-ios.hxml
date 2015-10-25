@@ -1,7 +1,6 @@
--main HaxeSample
+build.hxml
 -D no-compilation
 -D ios
 -D scriptable
 -cpp build/ios
--lib hx2objc
---macro hx2objc.Macros.export('build/ios/HXHaxeSampleObjcInterface')
+--macro hx2objc.Macros.export('build/ios/HaxeSampleObjcInterface')
