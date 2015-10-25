@@ -1,0 +1,7 @@
+-main HaxeSample
+-D no-compilation
+-D ios
+-D scriptable
+-cpp build/ios
+-lib hx2objc
+--macro hx2objc.Macros.export('build/ios/HXHaxeSampleObjcInterface')
