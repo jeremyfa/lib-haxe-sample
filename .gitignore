@@ -2,3 +2,7 @@ export_classes.info
 .DS_Store
 build
 libs
+HaxeSample-Debug.zip
+HaxeSample-Release.zip
+xcuserdata
+projects/ios/HaxeSample/Output
